@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+
+  Header {
+    background-color: lightcoral;
+    Padding: 20px;
+  }
+  Header H1 {
+    Color: black;
+    Text-Align: Center;
+    Font-Weight: 100;
+  }
+  
+  .box {
+    position: relative;
+    padding: 10px;
+    background-color: black;
+    font-family: sans-serif;
+  }
+  
+  input {
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  
+  }
+
+  #container {
+    Text-Align: Center;
+    Font-Weight: 500;
+    Text-Transform: Uppercase;
+    Letter-Spacing: 2px;
+    Margin: 40px 0;
+  }
+
+  
+  
